@@ -1,0 +1,17 @@
+.required:after{
+    content:"*";
+    color: rgb(255, 255, 0);
+  }
+  label{
+    font-weight: bold;
+  }
+  .checked{
+    color:yellow);
+    cursor:pointer;
+  }
+  input{
+    cursor:pointer;
+  }
+  #comments{
+    display:flex;
+  }
